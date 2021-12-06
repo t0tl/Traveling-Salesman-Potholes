@@ -1,4 +1,4 @@
-from testest import Anneal
+from Anneal import Anneal
 import matplotlib.pyplot as plt
 import random
 import json
